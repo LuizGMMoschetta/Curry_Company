@@ -95,7 +95,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 ## 5. O produto final do projeto
   Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
   
-  O painel pode ser acessado através desse link:
+  O painel pode ser acessado através desse link: https://luizmoschetta-curry-company.streamlit.app/
   
 ## 6. Conclusão
   O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
